@@ -1,0 +1,41 @@
+Problems that can be solved using technology
+
+The many opportunities provided to us by technology are largely used to solve issues that an orangisation or a simple people is having.
+However, that same technology can be applied to help remedy a variety of wider challenges facing society, rom healthcare to environmental 
+sustainability – and technology leaders can play an important part in driving that change through innovative thinking and collaboration. 
+
+Here are some of the ways technology will help solving some major global problems.
+
+1. Education
+
+Smart classroom technology is breaking down the walls of the traditional classroom and opening up new opportunities for students and teachers. 
+For many students, especially those in remote areas, developments in cloud, video conferencing, and wireless technology can offer access to classes, 
+subjects, and teachers they might otherwise have never been able to reach. 
+
+Increasingly fast internet and advanced network coverage are also providing those who cannot enrol in school or university the chance to access free 
+online courses, or even self-teach through sites like Wikipedia and YouTube. 
+
+Virtual Reality technology will play a critical role as a training tool for workers displaced by automation, and for disciplines such as medicine or
+engineering where programs simulating real life can provide essential “hands-on” experience.
+
+2. Poverty
+
+Technology can help to reduce poverty by creating more jobs and allowing those in developing countries to reach a wider market. Having access to the 
+internet, combined with digital literacy, can open up more opportunities for more people to economically support themselves. 
+
+3. Public Safety
+
+A range of technologies can help to increase public safety throughout the world. Location-based emergency communications and apps can allow those in 
+danger to make their whereabouts known and seek help from law enforcement or others nearby. 
+
+4. Healthcare
+
+The digitisation of hospitals and other healthcare facilities will see a largely paper-based industry transition to more efficient Electronic Medical 
+Records (EMRs), allowing clinicians to access records from anywhere, as well as interact with patients and colleagues – regardless of their location 
+– to better provide collaborative care. EMRs will improve the patient experience, reduce costs for hospitals, and lead to higher quality care around 
+the world.
+
+Blockchain technology and the secure ledger it provides can be used to resolve issues of security, scalability, and privacy in the healthcare sector. 
+Solutions include counterfeit drug prevention, validation and payment of claims, and improving the accountability and transparency of clinical trials.
+
+Here are some problem solving ways but there are a lot more that this.
